@@ -9,3 +9,12 @@ In this assignment you'll work with outputting text to `stdout` (or Standard Out
 2. In `HelloName.java` ask the user for their name and then say hello to them.
 
 Code well!
+
+## Setup
+
+`javac *.java`
+
+## Run
+
+`java -cp . [function name]`
+
